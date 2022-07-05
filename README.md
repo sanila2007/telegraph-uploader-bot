@@ -1,4 +1,4 @@
-<h1 align= left><a href="https://t.me/sanilaassistant_bot">telegraph uploader bot</a> </h1>
+<h1 align= left>telegraph uploader bot</h1>
 
 > Telegram bot that can upload videos, images and animations to the telegraph with some cool features...
 ----
