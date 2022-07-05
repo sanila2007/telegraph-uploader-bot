@@ -1,0 +1,39 @@
+{
+  "name": "telegraph-uploader-bot",
+  "description":"You can use this bot upload images, videos and animations to the telegraph.",
+  "repository": "https://github.com/sanila2007/telegraph-uploader-bot",
+  "logo": "https://telegra.ph/file/7503f1b9e71af2b815cf2.jpg",
+  "keywords": [
+    "telegraph bot",
+    "images",
+    "videos",
+    "animation",
+    "uploader",
+    "pyrogram bot"
+  ],
+      "env": {
+        "API_ID": {
+            "description": "Get from my.telegram.org/apps",
+            "required": true
+        },
+        "API_HASH": {
+            "description": "Get from my.telegram.org/apps",
+            "required": true
+        },
+        "BOT_TOKEN": {
+            "description": "Get from Telegram's @BotFather",
+            "required": true
+        }
+    },
+    "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+  },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
