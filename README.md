@@ -1,6 +1,6 @@
 <h1 align= left>telegraph uploader bot</h1>
 
-> Telegram bot that can upload videos, images and animations to the telegraph with some cool features...
+> Telegram bot that can upload videos, images and animations to the telegra.ph
 ----
 
     
