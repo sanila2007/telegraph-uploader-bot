@@ -35,7 +35,7 @@ ERROR_BUTTON = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton("Report Bugs🤖", url="https://t.me/sanilaassistant_bot"),
-            InlineKeyboardButton("Learn Boot🙂", url="https://t.me/sanilaassistant_bot")
+            InlineKeyboardButton("Learn Bot🙂", url="https://t.me/sanilaassistant_bot")
         ]
     ]
 )
